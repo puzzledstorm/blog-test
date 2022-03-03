@@ -2,287 +2,296 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/"
+                href="https://puzzledstorm.github.io/blog-test/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/"
+                href="https://puzzledstorm.github.io/blog-test/en/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/publication/article/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/publication/book/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/publication/book/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/publication/misc/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/publication/misc/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/publication/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/posts/"
+                href="https://puzzledstorm.github.io/blog-test/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/posts/"
+                href="https://puzzledstorm.github.io/blog-test/en/posts/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/shortcode/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/shortcodes/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/tags/"
+                href="https://puzzledstorm.github.io/blog-test/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/tags/"
+                href="https://puzzledstorm.github.io/blog-test/en/tags/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/showcase/hugo/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/showcase/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/categories/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/categories/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/categories/"
+                href="https://puzzledstorm.github.io/blog-test/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/categories/"
+                href="https://puzzledstorm.github.io/blog-test/en/categories/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/css/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/html/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/html/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/markdown/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/markdown/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/markdown-syntax/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/series/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/series/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/series/"
+                href="https://puzzledstorm.github.io/blog-test/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/series/"
+                href="https://puzzledstorm.github.io/blog-test/en/series/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/categories/syntax/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/themes/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/categories/themes/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/categories/themes/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/series/themes-guide/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/series/themes-guide/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/hugo/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/privacy/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/rich-content/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/shortcodes/</loc>
+    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/categories/hugo/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/syntax-highlight/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/math-typesetting/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/amoji/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/bamoji/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/emoji/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/emoji-support/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/gamoji/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/namoji/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/categories/diagram/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-viz/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-wavedrom/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-chartjs/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-js-sequence-diagrams/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/diagram/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-mermaid/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/categories/math/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-mathjax/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-katex/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/posts/test-flowchart/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/gallery/cartoon/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/gallery/cartoon/"
+                href="https://puzzledstorm.github.io/blog-test/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/gallery/cartoon/"
+                href="https://puzzledstorm.github.io/blog-test/en/gallery/cartoon/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/gallery/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/gallery/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/gallery/"
+                href="https://puzzledstorm.github.io/blog-test/ko/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/gallery/"
+                href="https://puzzledstorm.github.io/blog-test/en/gallery/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/gallery/photo/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/gallery/photo/"
+                href="https://puzzledstorm.github.io/blog-test/ko/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/gallery/photo/"
+                href="https://puzzledstorm.github.io/blog-test/en/gallery/photo/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/presentation/dir/fourth/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/presentation/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/presentation/third/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/presentation/second/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/presentation/first/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/archive/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/archive/"
+                href="https://puzzledstorm.github.io/blog-test/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/archive/"
+                href="https://puzzledstorm.github.io/blog-test/en/archive/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/about/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/about/"
+                href="https://puzzledstorm.github.io/blog-test/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/about/"
+                href="https://puzzledstorm.github.io/blog-test/en/about/"
                 />
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/publication/article/article_any_folder_name_1/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/publication/book/book_any_folder_name_1/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://puzzledstorm.github.io/puzzle/en/tags/index/</loc>
+    <loc>https://puzzledstorm.github.io/blog-test/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://puzzledstorm.github.io/puzzle/ko/tags/index/"
+                href="https://puzzledstorm.github.io/blog-test/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://puzzledstorm.github.io/puzzle/en/tags/index/"
+                href="https://puzzledstorm.github.io/blog-test/en/tags/index/"
                 />
   </url>
 </urlset>
