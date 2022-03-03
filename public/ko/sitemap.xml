@@ -2,142 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/ko/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://puzzledstorm.github.io/puzzle/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="https://puzzledstorm.github.io/puzzle/ko/"
                 />
   </url><url>
-    <loc>http://example.org/ko/archive/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/archive/"
+                href="https://puzzledstorm.github.io/puzzle/en/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/archive/"
+                href="https://puzzledstorm.github.io/puzzle/ko/archive/"
                 />
   </url><url>
-    <loc>http://example.org/ko/about/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/about/</loc>
     <lastmod>2019-10-09T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/about/"
+                href="https://puzzledstorm.github.io/puzzle/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/about/"
+                href="https://puzzledstorm.github.io/puzzle/ko/about/"
                 />
   </url><url>
-    <loc>http://example.org/ko/gallery/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/gallery/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/"
+                href="https://puzzledstorm.github.io/puzzle/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/"
+                href="https://puzzledstorm.github.io/puzzle/ko/gallery/"
                 />
   </url><url>
-    <loc>http://example.org/ko/gallery/photo/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/gallery/photo/</loc>
     <lastmod>2018-10-12T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/photo/"
+                href="https://puzzledstorm.github.io/puzzle/en/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/photo/"
+                href="https://puzzledstorm.github.io/puzzle/ko/gallery/photo/"
                 />
   </url><url>
-    <loc>http://example.org/ko/gallery/cartoon/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/gallery/cartoon/</loc>
     <lastmod>2018-10-11T10:20:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/gallery/cartoon/"
+                href="https://puzzledstorm.github.io/puzzle/en/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/gallery/cartoon/"
+                href="https://puzzledstorm.github.io/puzzle/ko/gallery/cartoon/"
                 />
   </url><url>
-    <loc>http://example.org/ko/categories/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://puzzledstorm.github.io/puzzle/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="https://puzzledstorm.github.io/puzzle/ko/categories/"
                 />
   </url><url>
-    <loc>http://example.org/ko/tags/index/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/index/"
+                href="https://puzzledstorm.github.io/puzzle/en/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/index/"
+                href="https://puzzledstorm.github.io/puzzle/ko/tags/index/"
                 />
   </url><url>
-    <loc>http://example.org/ko/posts/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="https://puzzledstorm.github.io/puzzle/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/posts/"
+                href="https://puzzledstorm.github.io/puzzle/ko/posts/"
                 />
   </url><url>
-    <loc>http://example.org/ko/series/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="https://puzzledstorm.github.io/puzzle/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="https://puzzledstorm.github.io/puzzle/ko/series/"
                 />
   </url><url>
-    <loc>http://example.org/ko/tags/</loc>
+    <loc>https://puzzledstorm.github.io/puzzle/ko/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://puzzledstorm.github.io/puzzle/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="https://puzzledstorm.github.io/puzzle/ko/tags/"
                 />
   </url>
 </urlset>
