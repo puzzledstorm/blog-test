@@ -11,6 +11,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://puzzledstorm.github.io/blog-test/ko/"
                 />
@@ -21,6 +26,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://puzzledstorm.github.io/blog-test/en/archive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/archive/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -37,6 +47,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://puzzledstorm.github.io/blog-test/ko/about/"
                 />
@@ -47,6 +62,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://puzzledstorm.github.io/blog-test/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,6 +83,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/gallery/photo/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://puzzledstorm.github.io/blog-test/ko/gallery/photo/"
                 />
@@ -73,6 +98,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://puzzledstorm.github.io/blog-test/en/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -88,6 +118,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://puzzledstorm.github.io/blog-test/ko/categories/"
                 />
@@ -97,6 +132,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://puzzledstorm.github.io/blog-test/en/tags/index/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -112,6 +152,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://puzzledstorm.github.io/blog-test/ko/posts/"
                 />
@@ -124,6 +169,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/series/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="ko"
                 href="https://puzzledstorm.github.io/blog-test/ko/series/"
                 />
@@ -133,6 +183,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://puzzledstorm.github.io/blog-test/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://puzzledstorm.github.io/blog-test/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
